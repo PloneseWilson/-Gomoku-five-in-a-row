@@ -9,7 +9,7 @@ simulate
 backpropagate   
   
 以及一些其他的函數  
-legalmove:減少計算量的選擇函數  
+legalmove:選擇合法的下一步，減少計算量的選擇函數  
 wincheck:判斷是否勝利  
 scorecheck:判斷該步的價值  
 walk:方便寫wincheck/scorecheck函數而封裝的while循環  
