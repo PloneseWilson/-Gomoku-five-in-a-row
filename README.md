@@ -3,6 +3,8 @@
 A bot written by myself partly based on Monte Carlo Tree Search(MCTS)  
 so that it can run on laptops with normal CPU  
 
+check out Gomoku.cpp
+
 -----------------------------------------------  
 5個主要的架構函數/structure functions:  
 UCB  
