@@ -1,5 +1,5 @@
 # -Gomoku-five-in-a-row
-自己基於蒙地卡羅樹搜索(MCST)上修改的bot 以確保能在文書機等級CPU上運行  
+自己基於蒙地卡羅樹搜索(MCTS)上修改的bot 以確保能在文書機等級CPU上運行  
 A bot written by myself partly based on Monte Carlo Tree Search(MCTS)  
 so that it can run on laptops with normal CPU  
 
