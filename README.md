@@ -40,7 +40,7 @@ prt: print the board
 如果你的電腦性能很好，可以去修改程式第17行的iter_cnt值  
 這是每一步程式嘗試的次數  
 
-If you have great CPU, you can change the iter_cnt at line 17  
+If you have great CPU, you can change the iter_cnt at line 17 in Gomoku.cpp   
 which is the number of attempts the program will compute each time
 
 當然仍有很多待改善的地方，慢慢改進:)  
